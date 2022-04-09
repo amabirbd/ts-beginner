@@ -1,0 +1,14 @@
+Linting:
+    -use relative path
+    -disable Linting rules only when needed
+    -Don't push a lot o f major linting changes at once
+
+Commenting:
+    -Typescript
+    -update proptypes
+    -use jsDocs
+
+Habits:
+    -commit often 
+    -refactor small
+    -push big changes to WIP branch
